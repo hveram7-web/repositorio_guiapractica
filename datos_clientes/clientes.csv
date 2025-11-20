@@ -1,1 +1,4 @@
-
+ID_Cliente,Nombre,Correo,Carrera
+C001,María López,mlopez@email.com,Software
+C002,Carlos Ruiz,cruiz@email.com,Derecho
+C003,Ana Mendoza,amendoza@email.com,Administración
